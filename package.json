@@ -1,0 +1,8 @@
+{
+  "name": "enhance-concentrate",
+  "description": "Run Enhance with one direct dependency",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
